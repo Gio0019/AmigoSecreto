@@ -8,6 +8,7 @@ Esta es una aplicación que te permitirá agregar nombres de amigos a una lista 
 
 ## 📖 Descripción 📖
 
+
 Este proyecto permite organizar un juego de **Amigo Secreto** en línea. Los participantes pueden ingresar sus nombres, y la aplicación seleccionará aleatoriamente a quién le toca hacer un regalo. ¡Fácil, rápido y divertido!
 
 ---
@@ -63,11 +64,11 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
  ---
 ## Contribuciones🤝
  ¡Las contribuciones son bienvenidas 🌟! Si deseas mejorar este proyecto, sigue estos pasos:3
- Paso 1: Has un fork del repositorio
- Paso 2: Crea una nueva rama  (git chekout -b feature/nueva-funcionalidad)
- Paso 3: Realiza tus cambios y haz commit(git commit -m  'agrega nueva funcionalidad')
- Paso 4: Haz push a la rama(git push origin feature/nueva-funcionalidad)
- Paso 5: Abre un Pull Request y describe tus cambios ;3
+ 1. Haz un fork del repositorio.
+2. Crea una nueva rama: `git checkout -b feature/nueva-funcionalidad`.
+3. Realiza tus cambios y haz commit: `git commit -m 'agrega nueva funcionalidad'`.
+4. Haz push a la rama: `git push origin feature/nueva-funcionalidad`.
+5. Abre un Pull Request y describe tus cambios ;3.
  
  ---
 ## Licencia📄
